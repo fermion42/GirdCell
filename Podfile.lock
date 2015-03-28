@@ -1,0 +1,13 @@
+PODS:
+  - Masonry (0.6.1)
+  - Organic (0.2)
+
+DEPENDENCIES:
+  - Masonry (= 0.6.1)
+  - Organic (= 0.2)
+
+SPEC CHECKSUMS:
+  Masonry: 2cb49fd14d203d2db5ca6bb017135b235dde9980
+  Organic: bec15fd438567bbddb55ad633da8f963fcf52b45
+
+COCOAPODS: 0.36.1
